@@ -24,7 +24,7 @@ npm i
 ```
 
 The project uses ![donenv](https://www.npmjs.com/package/dotenv), ![express](https://www.npmjs.com/package/express), ![mysql2](https://www.npmjs.com/package/mysql2), snd ![sequelize](https://www.npmjs.com/package/sequelize).
-.
+
 ## Usage
 
 Please install ![Insomnia](https://insomnia.rest/) to test the various routes or other API testing software of your choice.
