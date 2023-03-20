@@ -25,6 +25,8 @@ npm i
 
 Please install Insomnia to test the various routes or other API testing software of your choice.
 
+The following video will demonstrate how the project is used. https://drive.google.com/file/d/1hLVOGVhXogp4TUdxVYuy0dLB1XCscaWB/view
+
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
