@@ -23,7 +23,7 @@ To install necessary dependencies, run the following command:
 npm i
 ```
 
-The project uses ![donenv](https://www.npmjs.com/package/dotenv), ![express](https://www.npmjs.com/package/express), ![mysql2](https://www.npmjs.com/package/mysql2), snd ![sequelize](https://www.npmjs.com/package/sequelize).
+The project uses ![dotenv](https://www.npmjs.com/package/dotenv), ![express](https://www.npmjs.com/package/express), ![mysql2](https://www.npmjs.com/package/mysql2), snd ![sequelize](https://www.npmjs.com/package/sequelize).
 
 ## Usage
 
