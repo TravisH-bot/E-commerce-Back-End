@@ -19,11 +19,16 @@ The E-Commerce Back End allows users to make GET, POST, PUT, and DELETE requets 
 
 To install necessary dependencies, run the following command:
 
+```
 npm i
+```
+
 
 ## Usage
 
-Please install Insomnia to test the various routes or other API testing software of your choice.
+Please install ![Insomnia](https://insomnia.rest/) to test the various routes or other API testing software of your choice.
+
+![ecommerce1](https://user-images.githubusercontent.com/79767820/226398842-0c5cad62-4b9f-43f7-9f9d-5f30c122edd1.png)
 
 The following video will demonstrate how the project is used. https://drive.google.com/file/d/1hLVOGVhXogp4TUdxVYuy0dLB1XCscaWB/view
 
@@ -39,7 +44,9 @@ Add an issue or email directly.
 
 To run tests, run the following command:
 
+```
 npm test
+```
 
 ## Questions
 
